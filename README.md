@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Oiva Nekwaya 
 
-<!--
-**OivaNekwaya/OivaNekwaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | Web & Mobile Developer | Cybersecurity
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer with experience building web and mobile applications. I enjoy developing secure, reliable and user-friendly software solutions while continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Full-Stack Developer & Head of Department
+- BSc Business Information Systems
+- Web & Mobile Application Developer
+- Cybersecurity Enthusiast
+- Based in Windhoek, Namibia
+
+### Tech Stack
+
+- PHP
+- JavaScript
+- Flutter & Dart
+- HTML & CSS
+- MySQL & PostgreSQL
+- REST APIs
+- Git & GitHub
+
+### Certifications
+
+- Cybersecurity Essentials
+- Linux Unhatched
+- Network Technician
+
+### Contact
+
+nekwayaoiva.official@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/oiva-nekwaya-a3b60b348
