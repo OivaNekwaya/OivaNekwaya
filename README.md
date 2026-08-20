@@ -1,6 +1,6 @@
 # Hi, I'm Oiva Nekwaya 
 
-## Full-Stack Developer | Web & Mobile Developer | Cybersecurity
+## Full-Stack Developer | Web & Mobile Developer | Networking | Cybersecurity
 
 I'm a Full-Stack Developer with experience building web and mobile applications. I enjoy developing secure, reliable and user-friendly software solutions while continuously learning new technologies.
 
