@@ -34,6 +34,8 @@ I'm a full-stack developer and Head of Department with a background in **BSc Bus
 
 | Project | Overview | Source |
 | --- | --- | --- |
+| **ViidaVend** | Flutter marketplace with customer, retailer, driver and administrator experiences, backed by a PHP API. | Private |
+| **Omhedi Eco Cultural Lodge** | PHP hospitality website with accommodation, availability, bookings and cultural experiences. | Private |
 | **Gina Ballerina Store** | Online store project with a Next.js and TypeScript frontend and a Node.js/Express backend. | [View repository](https://github.com/OivaNekwaya/gina-ballerina-store) |
 | **MobiCattle** | Flutter cattle management application with administrator, owner and finder experiences. | Private |
 | **Farm Management System** | Farm operations system covering animals, feedings, inventory and employee tasks. | Private |
